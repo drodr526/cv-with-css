@@ -103,7 +103,7 @@ body
 
 .skill-row
 {
-    width: 30%;
+    width: 450px;
     margin: 100px auto 100px auto;
 }
 
@@ -138,7 +138,6 @@ body
     text-align: center;
     line-height: 4;
 }
-
 
 .btn {
     background: #3498db;
